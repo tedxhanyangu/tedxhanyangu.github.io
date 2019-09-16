@@ -1,0 +1,146 @@
+{
+    "0": {
+        "name": "남도순대국",
+        "image": "namdo.png"
+    },
+    "1": {
+        "name": "동방양꼬치",
+        "image": "dongbang.png"
+    },
+    "2": {
+        "name": "돼지분식",
+        "image": "pig.png"
+    },
+    "3": {
+        "name": "띵똥와플",
+        "image": "ddingddong.png"
+    },
+    "4": {
+        "name": "베네토 피자앤펍",
+        "image": "veneto.jpg"
+    },
+    "5": {
+        "name": "비야",
+        "image": "biya.png"
+    },
+    "6": {
+        "name": "서브웨이 한양대점",
+        "image": "subway_han.jpg"
+    },
+    "7": {
+        "name": "이디야 한양대점",
+        "image": "ediya_han.gif"
+    },
+    "8": {
+        "name": "이마트 왕십리점",
+        "image": "emart_king10.png"
+    },
+    "9": {
+        "name": "이모네북어찜",
+        "image": "emo.png"
+    },
+    "10": {
+        "name": "장어구이",
+        "image": "eel_92.png"
+    },
+    "11": {
+        "name": "코카콜라",
+        "image": "cocacola.png"
+    },
+    "12": {
+        "name": "한솥도시락 한양여대점",
+        "image": "hansot_han_woman.png"
+    },
+    "13": {
+        "name": "광동제약",
+        "image": "kwangdong.jpg"
+    },
+    "14": {
+        "name": "랩노쉬",
+        "image": "labnosh.png"
+    },
+    "15": {
+        "name": "바비톡",
+        "image": "babitalk.png"
+    },
+    "16": {
+        "name": "소녀방앗간",
+        "image": "so_bang.png"
+    },
+    "17": {
+        "name": "우주라이크커피 한양대점",
+        "image": "WouldULike_han.jpg"
+    },
+    "18": {
+        "name": "체셔 comic cafe",
+        "image": "Cheshire.jpg"
+    },
+    "19": {
+        "name": "커리야 한양대점",
+        "image": "curryya_han.jpg"
+    },
+    "20": {
+        "name": "KT&G",
+        "image": "KT&G.jpg"
+    },
+    "21": {
+        "name": "라리에또 한양대점",
+        "image": "LaLieto_han.png"
+    },
+    "22": {
+        "name": "로지텍",
+        "image": "logitech.jpg"
+    },
+    "23": {
+        "name": "복고다방 한양대점",
+        "image": "bokgo_han.jpg"
+    },
+    "24": {
+        "name": "와플대학 한양대점",
+        "image": "waffleuniv_han.jpg"
+    },
+    "25": {
+        "name": "카페 마조로",
+        "image": "mazoro.jpg"
+    },
+    "26": {
+        "name": "카페 jungwon",
+        "image": "jungwon.png"
+    },
+    "27": {
+        "name": "earth man",
+        "image": "earthman.jpg"
+    },
+    "28": {
+        "name": "노랑통닭 한양대점",
+        "image": "yellow_chicken_han.jpg"
+    },
+    "29": {
+        "name": "밸런스버거 한양대점",
+        "image": "valanceBurgers_han.jpg"
+    },
+    "30": {
+        "name": "카모메 한양대점",
+        "image": "kamome_han.jpg"
+    },
+    "31": {
+        "name": "커피만 한양대점",
+        "image": "coffeeMan_han.jpg"
+    },
+    "32": {
+        "name": "ECHOPRESSO",
+        "image": "echopresso.jpg"
+    },
+    "33": {
+        "name": "MEDIHEAL",
+        "image": "mediheal.jpg"
+    },
+    "34": {
+        "name": "n.thing",
+        "image": "nThing.jpg"
+    },
+    "35": {
+        "name": "To Presso 한양대점",
+        "image": "ToPresso_han.jpg"
+    }
+}

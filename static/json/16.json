@@ -1,0 +1,241 @@
+{
+    "organizers": [
+        {
+            "index": 0,
+            "team_div": "<h2>디렉터: <strong>D</strong>irector</h2>",
+            "position": "Director",
+            "members": [
+                {
+                    "name": "김은주",
+                    "figcaption" : "Everyone has \"Ideas Worth Spreading\"",
+                    "sns": [
+                        {
+                            "channel": "facebook",
+                            "link": "https://www.facebook.com/profile.php?id=100005897291099"
+                        },
+                        {
+                            "channel": "instagram",
+                            "link": "https://www.instagram.com/agzoo_98"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "team_div": "<h2>연사섭외 팀: <strong>C</strong>uration</h2>",
+            "position": "curation",
+            "members": [
+                {
+                    "name": "강민지",
+                    "leader": "on",
+                    "figcaption" : "To be the person I wanna be :)"
+                },
+                {
+                    "name": "김윤우"
+                },
+                {
+                    "name": "박한나",
+                    "figcaption" : "한양의 딸!"
+                },
+                {
+                    "name": "하승호",
+                    "figcaption" : "Go for it."
+                },
+                {
+                    "name": "허재훈",
+                    "figcaption" : "안녕하세요 :)"
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "team_div": "<h2>행사기획 팀: e<strong>V</strong>ent <strong>P</strong>lanning</h2>",
+            "position": "event planning",
+            "members": [
+                {
+                    "name": "박수현",
+                    "leader": "on",
+                    "figcaption" : "호랑이🐯",
+                    "sns": [
+                        {
+                            "channel": "instagram",
+                            "link": "https://www.instagram.com/clap.hyunee"
+                        }
+                    ]
+                },
+                {
+                    "name": "김채림",
+                    "figcaption": "쿼카🐿",
+                    "sns": [
+                        {
+                            "channel": "instagram",
+                            "link": "https://www.instagram.com/chaerim329"
+                        }
+                    ]
+                },
+                {
+                    "name": "김태훈",
+                    "figcaption" : "테덱스하냥 최고!"
+                },
+                {
+                    "name": "임본아",
+                    "figcaption" : "Nerdy Hippie",
+                    "sns": [
+                        {
+                            "channel": "instagram",
+                            "link": "https://www.instagram.com/_nerdy_hippie"
+                        }
+                    ]
+                },
+                {
+                    "name": "임예린",
+                    "figcaption" : "Yell in TEDxHanyangU",
+                    "sns": [
+                        {
+                            "channel": "instagram",
+                            "link": "https://www.instagram.com/yelloln"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "team_div": "<h2>홍보 팀: e<strong>V</strong>angelist</h2>",
+            "position": "eVangelist",
+            "members": [
+                {
+                    "name": "최미주",
+                    "leader": "on"
+                },
+                {
+                    "name": "김하린"
+                },
+                {
+                    "name": "박진석",
+                    "figcaption" : "행복주의자",
+                    "sns": [
+                        {
+                            "channel": "instagram",
+                            "link": "https://www.instagram.com/park_jinseokkk"
+                        }
+                    ]
+                },
+                {
+                    "name": "정인영"
+                },
+                {
+                    "name": "조수현"
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "team_div": "<h2>대외협력 팀: <strong>P</strong>ublic <strong>R</strong>elations</h2>",
+            "position": "Public Relations",
+            "members": [
+                {
+                    "name": "김태완",
+                    "leader": "on",
+                    "figcaption": "매 순간을 후회없이!"
+                },
+                {
+                    "name": "안하연",
+                    "figcaption": "49%",
+                    "sns": [
+                        {
+                            "channel": "instagram",
+                            "link": "https://www.instagram.com/babihy1998"
+                        }
+                    ]
+                },
+                {
+                    "name": "이승연",
+                    "figcaption" : "16회사랑해요❤️"
+                },
+                {
+                    "name": "이예찬"
+                },
+                {
+                    "name": "조수진",
+                    "figcaption": "여름 하늘",
+                    "sns": [
+                        {
+                            "channel": "instagram",
+                            "link": "https://www.instagram.com/dal_sooj"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "team_div": "<h2>디자인 팀: <strong>D</strong>esigner</h2>",
+            "position": "Designer",
+            "members": [
+                {
+                    "name": "정소현",
+                    "leader": "on",
+                    "figcaption": ":)"
+                },
+                {
+                    "name": "최지민"
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "team_div": "<h2>기술 팀: <strong>E</strong>ngineer</h2>",
+            "position": "Engineer",
+            "members": [
+                {
+                    "name": "박소호",
+                    "leader": "on",
+                    "figcaption": "macaroon"
+                },
+                {
+                    "name": "김규민",
+                    "figcaption": "Develop!"
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "team_div": "<h2><strong>O</strong>rganizers</h2>",
+            "position": "None",
+            "members": [
+                {
+                    "name": "연사섭외팀",
+                    "name_null": "on",
+                    "figcaption": "연사섭외팀"
+                },
+                {
+                    "name": "홍보팀",
+                    "name_null": "on",
+                    "figcaption": "홍보팀"
+                },
+                {
+                    "name": "행사기획팀",
+                    "name_null": "on",
+                    "figcaption": "행사기획팀"
+                },
+                {
+                    "name": "디자인팀",
+                    "name_null": "on",
+                    "figcaption": "디자인팀"
+                },
+                {
+                    "name": "기술팀",
+                    "name_null": "on",
+                    "figcaption": "기술팀"
+                },
+                {
+                    "name": "대외협력팀",
+                    "name_null": "on",
+                    "figcaption": "대외협력팀"
+                }
+            ]
+        }
+    ]
+}
