@@ -579,7 +579,7 @@
             "display": "on",
             "title": "[발화:發話]",
             "subtitle": "비밀의 화원에 당신을 초대합니다.",
-            "taks": [
+            "talks": [
                 {
                     "speaker": "민은정",
                     "occupation": "INTERBRAND CCO",

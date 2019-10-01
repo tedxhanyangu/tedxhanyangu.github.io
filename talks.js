@@ -67,10 +67,8 @@ talksxhr.onreadystatechange = function () {
 
         // talk 추가
         var left = make_elemente("div", ["col-md-6"])
-        var right = make_elemente("div", ["col-md-6"])
-        
-        var len = events[i].talks.length;
-        len = Math.round(len/2);
+        var right = make_elemente("div", ["col-md-6"]) 
+        var len = Math.round(events[i].talks.length/2);
 
         for (var j in events[i].talks){
           var talk = make_elemente("h4")
