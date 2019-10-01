@@ -37,15 +37,21 @@ talksxhr.onreadystatechange = function () {
         var panel_head = make_elemente("div", ["panel-heading"])
         var head = make_elemente("h4", ["panel-title"])
 
-        
         // head 정의
-        for(var n in [...Array(2).keys()]){
-          var num = Number(n) + 1
-          var img_id = "{}_{}".format(events[i].no, num)
+        if (events[i].hasOwnProperty("img_num")){
+          var img_id = "{}_1".format(events[i].no)
           var image = make_elemente("img", ["talk_img", "lazy"], img_id)
           image.src = "./image/poster/{}.jpg".format(img_id)
           head.appendChild(image)
-        };
+        }else{
+          for(var n in [...Array(2).keys()]){
+            var num = Number(n) + 1
+            var img_id = "{}_{}".format(events[i].no, num)
+            var image = make_elemente("img", ["talk_img", "lazy"], img_id)
+            image.src = "./image/poster/{}.jpg".format(img_id)
+            head.appendChild(image)
+          };
+        }
         panel_head.appendChild(head)
 
         // body 정의
