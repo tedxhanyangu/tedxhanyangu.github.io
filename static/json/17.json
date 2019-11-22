@@ -1,0 +1,186 @@
+{
+    "organizers": [
+        {
+            "index": 0,
+            "team_div": "<h2>디렉터: <strong>D</strong>irector</h2>",
+            "position": "Director",
+            "members": [
+                {
+                    "name": "강민지"
+                }
+            ]
+        },
+        {
+            "index": 1,
+            "team_div": "<h2>연사섭외 팀: <strong>C</strong>uration</h2>",
+            "position": "curation",
+            "members": [
+                {
+                    "name": "김윤우",
+                    "leader": "on"
+                },
+                {
+                    "name": "김나영"
+                },
+                {
+                    "name": "김주란"
+                },
+                {
+                    "name": "나병찬"
+                },
+                {
+                    "name": "임본아"
+                },
+                {
+                    "name": "조수현"
+                }
+            ]
+        },
+        {
+            "index": 2,
+            "team_div": "<h2>행사기획 팀: e<strong>V</strong>ent <strong>P</strong>lanning</h2>",
+            "position": "event planning",
+            "members": [
+                {
+                    "name": "김채림",
+                    "leader": "on"
+                },
+                {
+                    "name": "김연성"
+                },
+                {
+                    "name": "김하린"
+
+                },
+                {
+                    "name": "박보경"
+
+                },
+                {
+                    "name": "박진석"
+
+                }
+            ]
+        },
+        {
+            "index": 3,
+            "team_div": "<h2>홍보 팀: e<strong>V</strong>angelist</h2>",
+            "position": "eVangelist",
+            "members": [
+                {
+                    "name": "박한나",
+                    "leader": "on"
+                },
+                {
+                    "name": "오준호"
+                },
+                {
+                    "name": "윤경은"
+
+                },
+                {
+                    "name": "이병직"
+                },
+                {
+                    "name": "임나미"
+                }
+            ]
+        },
+        {
+            "index": 4,
+            "team_div": "<h2>대외협력 팀: <strong>P</strong>ublic <strong>R</strong>elations</h2>",
+            "position": "Public Relations",
+            "members": [
+                {
+                    "name": "안하연",
+                    "leader": "on"
+                },
+                {
+                    "name": "남수연"
+
+                },
+                {
+                    "name": "박준서"
+                },
+                {
+                    "name": "최지민"
+                },
+                {
+                    "name": "하승호"
+                }
+            ]
+        },
+        {
+            "index": 5,
+            "team_div": "<h2>디자인 팀: <strong>D</strong>esigner</h2>",
+            "position": "Designer",
+            "members": [
+                {
+                    "name": "정인영",
+                    "leader": "on",
+                    "figcaption": ""
+                },
+                {
+                    "name": "서채연"
+                },
+                {
+                    "name": "아야디"
+                },
+                {
+                    "name": "정다윤"
+                }
+            ]
+        },
+        {
+            "index": 6,
+            "team_div": "<h2>기술 팀: <strong>E</strong>ngineer</h2>",
+            "position": "Engineer",
+            "members": [
+                {
+                    "name": "김규민",
+                    "leader": "on"
+                },
+                {
+                    "name": "백재현"
+                }
+            ]
+        },
+        {
+            "index": 7,
+            "team_div": "<h2><strong>O</strong>rganizers</h2>",
+            "position": "None",
+            "members": [
+                {
+                    "name": "연사섭외팀",
+                    "name_null": "on",
+                    "figcaption": "연사섭외팀"
+                },
+                {
+                    "name": "홍보팀",
+                    "name_null": "on",
+                    "figcaption": "홍보팀"
+                },
+                {
+                    "name": "행사기획팀",
+                    "name_null": "on",
+                    "figcaption": "행사기획팀"
+                },
+                {
+                    "name": "디자인팀",
+                    "name_null": "on",
+                    "figcaption": "디자인팀"
+                },
+                {
+                    "name": "기술팀",
+                    "name_null": "on",
+                    "figcaption": "기술팀"
+                },
+                {
+                    "name": "대외협력팀",
+                    "name_null": "on",
+                    "figcaption": "대외협력팀"
+                }
+            ]
+        }
+    ]
+}
