@@ -5,7 +5,7 @@ String.prototype.format = function () {
     });
 };
 
-var no = 17
+var no = 16
 
 function make_memberfig (position, members){
     var base_memberdiv = "<div class=\"{}\"><div class=\"team-member\"><figure><img src=\"image/organizers/{}/{}.png\" class=\"img-responsive gocoder\">\
