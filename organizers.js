@@ -8,7 +8,7 @@ String.prototype.format = function () {
 var no = 17
 
 function make_memberfig (position, members){
-    var base_memberdiv = "<div class=\"{}\"><div class=\"team-member\"><figure><img src=\"image/organizers/{}/{}.jpg\" class=\"img-responsive gocoder\">\
+    var base_memberdiv = "<div class=\"{}\"><div class=\"team-member\"><figure><img src=\"image/organizers/{}/{}.png\" class=\"img-responsive gocoder\">\
     <figcaption><p>{}</p></figcaption></figure><div class=\"separator\"></div>{}{}{}</div></div>"
 
     var member = new Array();
